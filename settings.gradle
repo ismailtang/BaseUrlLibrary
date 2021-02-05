@@ -1,0 +1,3 @@
+include ':baseurl'
+include ':app'
+rootProject.name = "BaseUrlLibrary"
